@@ -1,0 +1,23 @@
+# Compiled class file
+.idea/
+build/
+.terraform/
+.terraform.*
+*.tfplan
+*.lock
+*.pyc
+tests/__pycache__/*
+token_sign.key
+
+.git/
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
